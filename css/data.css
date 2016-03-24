@@ -55,10 +55,11 @@ a{
     background-color: #e2e2e2;
     text-align: center;
     line-height: 82px;
+    overflow: hidden;
 }
 .sc-fd{
     height:58px;
-    width:70%;
+    width:300px;
     border-radius: 40px;
     background-color: #fff;
     text-align: center;
