@@ -130,9 +130,9 @@ a{
     background-color: #ffffff;
 }
 .sc-head{
-    height:92px;
+    height:60px;
     width:100%;
-    line-height: 92px;
+    line-height: 60px;
 }
 .sc-head .sou{
     display: inline-block;
@@ -198,13 +198,13 @@ a{
 }
 .hot-list h3{
     width:100%;
-    font-size: 28px;
+    font-size: 16px;
     color:#4E4E4E;
     margin-top: 16px
 }
 .hot-list h4{
     width:100%;
-    font-size: 24px;
+    font-size: 14px;
     color:#9c9c9c;
     margin-top: 11px ;
     margin-bottom: 16px;
@@ -227,13 +227,13 @@ a{
 }
 .hot-title h3{
     width:100%;
-    font-size: 28px;
+    font-size: 16px;
     color:#4E4E4E;
     margin-top: 16px
 }
 .hot-title h4{
     width:100%;
-    font-size: 24px;
+    font-size: 14px;
     color:#9c9c9c;
     margin-top: 11px ;
     margin-bottom: 16px;
