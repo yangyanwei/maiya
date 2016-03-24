@@ -1,0 +1,237 @@
+body{
+    margin:0;
+    padding: 0;
+    font-size: 12px;
+    font-family: "STXihei";
+}
+ul,li,p,h1,h2,h3,h4,h5,h6{
+    margin: 0;padding: 0;
+    list-style: none;
+    font-weight:normal;
+}
+a{
+    text-decoration: none;
+}
+*{
+    box-sizing:border-box;
+}
+
+.win{
+    width: 100%;
+    height:70px ;
+    overflow: hidden;
+}
+.con{
+    width: 1500px;
+    height: 70px;
+}
+.clear{
+    clear: both;
+}
+.but{
+    height:70px;
+    width:125px;
+    float:left;
+    font-size: 32px;
+    font-family: "STXihei";
+    color:#4e4e4e;
+    text-align: center;
+    line-height: 70px;
+    background:#ffffff;
+}
+.but-yellow{
+    color:#fed141;
+    border-bottom:2px solid #fed141;
+}
+.but:hover{
+    color:#fed141;
+    border-bottom:2px solid #fed141;
+}
+
+.sc-find{
+    width:100%;
+    height:82px;
+    background-color: #e2e2e2;
+    text-align: center;
+    line-height: 82px;
+}
+.sc-fd{
+    height:58px;
+    width:716px;
+    border-radius: 40px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 58px;
+    display:inline-block;
+    margin-top: 12px;
+}
+.sc-sou {
+    width: 26px;
+    height:26px;
+    display:inline-block;
+    margin-right: 10px;
+    background:url("../images/sousuo.png") no-repeat center center;
+    background-size: cover;
+    margin-bottom: -5px;
+}
+.sc-suo {
+    height: 26px;
+    font-size: 26px;
+    color:#9c9c9c;
+    display:inline-block;
+
+}
+
+
+.banner{
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+}
+
+.banner img{
+    display: block;
+    width: 25%;
+    height: auto;
+    /*position: absolute;*/
+    float: left;
+}
+.lunbo{
+    width: 400%;
+}
+
+.dian {
+    position:absolute;
+    bottom: 20px;
+    right: 0;
+    width:200px;
+    height:12px;
+    text-align: center;
+}
+.dians{
+    height:12px;
+    width:12px;
+    border-radius: 50%;
+    margin-right: 20px;
+    background-color: #ffffff;
+    display:inline-block;
+}
+.dians-yellow {
+    background-color: #fed141;
+}
+
+/*搜索*/
+.sc-con{
+    margin-top: 10px;
+    background-color: #ffffff;
+}
+.sc-head{
+    height:92px;
+    width:100%;
+    line-height: 92px;
+}
+.sc-head .sou{
+    display: inline-block;
+    height:36px;
+    width:100%;
+    color:#4e4e4e;
+    font-size: 32px;
+}
+
+.sc-head .sou .ye-con{
+    display: inline-block;
+    margin-left: 26px;
+    margin-right: 16px;
+    width: 16px;
+    height: 120%;
+    margin-bottom: -10px;
+    background-color: yellow;
+    border-radius: 10px;
+
+}
+.sc-head .sou .hot{
+    display:inline-block;
+    font-family: STXihei;
+}
+.sc-head .suo{
+    display:inline-block;
+    font-size: 26px;
+    text-align: right;
+    width: 45%;
+    float: right;
+    color:#9c9c9c;
+    margin-right: 26px;
+}
+
+/*图文列表*/
+.m-list{
+    padding: 0 13px;
+}
+.m-list ul{
+    margin-left: -8px;
+}
+.m-list .hot-list{
+    margin-left: 8px;
+}
+.hot-list a{
+    display: inline-block;
+}
+.hot-pic{
+    background-size: 100% 100%;
+
+}
+.ul-hot li{
+    width: 50%;
+    float: left;
+}
+.hot-pic img{
+    display: block;
+    border: none;
+    vertical-align: middle;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+.hot-list h3{
+    width:100%;
+    font-size: 28px;
+    color:#4E4E4E;
+    margin-top: 16px
+}
+.hot-list h4{
+    width:100%;
+    font-size: 24px;
+    color:#9c9c9c;
+    margin-top: 11px ;
+    margin-bottom: 16px;
+}
+.tiao{
+    width: 100%;height: 10px;
+    background-color: #e2e2e2;
+}
+/*热门*/
+.hot-topic{
+    width: 100%;padding: 0;
+    margin-bottom: 10px;
+}
+.hot-topic img{
+    width: 100%;height: auto;
+    display: block;
+}
+.hot-title{
+    padding: 0 13px;
+}
+.hot-title h3{
+    width:100%;
+    font-size: 28px;
+    color:#4E4E4E;
+    margin-top: 16px
+}
+.hot-title h4{
+    width:100%;
+    font-size: 24px;
+    color:#9c9c9c;
+    margin-top: 11px ;
+    margin-bottom: 16px;
+}
