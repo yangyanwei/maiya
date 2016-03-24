@@ -59,13 +59,14 @@ a{
 }
 .sc-fd{
     height:58px;
-    width:300px;
+    width:70%;
     border-radius: 40px;
     background-color: #fff;
     text-align: center;
     line-height: 58px;
     display:inline-block;
     margin-top: 12px;
+    margin:0 auto;
 }
 .sc-sou {
     width: 26px;
