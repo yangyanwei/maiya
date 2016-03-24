@@ -23,17 +23,17 @@ a{
     overflow-x:scroll;
 }
 .con{
-    width: 1000px;
-    height: 70px;
+    width: 640px;
+    height: 44px;
 }
 .clear{
     clear: both;
 }
 .but{
-    height:70px;
-    width:125px;
+    height:44px;
+    width:85px;
     float:left;
-    font-size: 1.1em;
+    font-size: 2em;
     font-family: "STXihei";
     color:#4e4e4e;
     text-align: center;
@@ -59,7 +59,7 @@ a{
 }
 .sc-fd{
     height:58px;
-    width:70%;
+    width:85%;
     border-radius: 40px;
     background-color: #fff;
     text-align: center;
@@ -139,7 +139,7 @@ a{
     height:36px;
     width:100%;
     color:#4e4e4e;
-    font-size: 32px;
+    font-size: 18px;
 }
 
 .sc-head .sou .ye-con{
@@ -159,7 +159,7 @@ a{
 }
 .sc-head .suo{
     display:inline-block;
-    font-size: 26px;
+    font-size: 16px;
     text-align: right;
     width: 45%;
     float: right;
