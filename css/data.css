@@ -18,13 +18,13 @@ a{
 
 .win{
     width: 100%;
-    height:70px ;
+    height:44px ;
     /*overflow: hidden;*/
     overflow-x:scroll;
 }
 .con{
-    width: 645px;
-    height: 44px;
+    width: 640px;
+    height: 40px;
 }
 .clear{
     clear: both;
@@ -37,7 +37,7 @@ a{
     font-family: "STXihei";
     color:#4e4e4e;
     text-align: center;
-    line-height: 70px;
+    line-height: 40px;
     background:#ffffff;
 }
 .but-yellow{
